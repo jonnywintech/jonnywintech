@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">I'm Nikola from Serbia<br><br>- 🔭 I’m working as Software Developer<br>- 📚 I'm currently learning all kinds of stuff<br>- ⚡ In my free time I upgrade my skills</p>
+<p align="left">I'm Nikola from Serbia<br><br>- 🔭 I’m working as Full Stack Developer<br>- 📚 I'm currently learning all kinds of stuff<br>- ⚡ In my free time I upgrade my skills</p>
 
 ###
 
